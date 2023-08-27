@@ -6,7 +6,7 @@
 <a href="https://Instagram.com/jihadul990" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
-____Programming And Memes____
+____Programming And TREADING____
 
 CONTACT WITH <a href="https://github.com/jihadul200k"><b>JIHADUL ISLAM </a> </br><br>
 <p>mdjihadjihad939@mail.com</p>  <br> <br> 
@@ -17,16 +17,16 @@ CONTACT WITH <a href="https://github.com/jihadul200k"><b>JIHADUL ISLAM </a> </br
   
 #### INSTALL TOOL ON TERMUX
 ```python
- termux-setup-storage 
+ TERMUX-SETUP-STORAGE 
  pkg install python 
  pkg install python2 
  pkg install git 
- git clone https://github.com/RJ-Shuvo/SETUP
+ git clone https://github.com/jihadul200k/Set-Up.git
 ```
 #### RUN SCRIPT
 ```python
- cd SETUP
- bash RJ-SETUP.sh
+ cd Set-up
+ bash Set-up.sh
 ```
 
 
