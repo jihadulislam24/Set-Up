@@ -8,8 +8,8 @@
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/jihadul200k"><b>RJ-Shuvo </a> </br><br>
-<p>mdshuvo726@gmail.com</p>  <br> <br> 
+CONTACT WITH <a href="https://github.com/jihadul200k"><b>jihadul200k </a> </br><br>
+<p>mdjihadjihad939@mail.com</p>  <br> <br> 
 
 
       TERMUX SETUP TOOL
