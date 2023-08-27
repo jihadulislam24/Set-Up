@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=WELCOME+TO+MY+PROFILE;AND+THANKS+TO+USE+MY+COMMAND;PLEASE+GIVE+ME+A+STAR+IF+YOU+WIS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1219&color=000000&width=435&lines=WELCOME+TO+MY+PROFILE;AND+THANKS+TO+USE+MY+COMMAND;PLEASE+GIVE+ME+A+STAR+IF+YOU+WISH+)](https://git.io/typing-svg)
 
 
    ##  MY SOCIAL MEDIA : <br>
