@@ -25,7 +25,7 @@ CONTACT WITH <a href="https://github.com/jihadul200k"><b>JIHADUL ISLAM </a> </br
 ```
 #### RUN SCRIPT
 ```python
- cd Set-up
+ cd Set-Up
  bash Set-up.sh
 ```
 
