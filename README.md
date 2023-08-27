@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=50F739&background=000000&height=80&lines=Hello+World+I+am+RJ+Shuvo+;A+Hacker+Make+System+A+Hacker+Fuck+System;Thanks+You+Visit+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=WELCOME+TO+MY+PROFILE;AND+THANKS+TO+USE+MY+COMMAND;PLEASE+GIVE+ME+A+STAR+IF+YOU+WIS)](https://git.io/typing-svg)
 
 
    ##  MY SOCIAL MEDIA : <br>
 
-<a href="https://Instagram.com/rj.shuvoh4ck3r" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://Instagram.com/jihadul990" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
+CONTACT WITH <a href="https://github.com/jihadul200k"><b>RJ-Shuvo </a> </br><br>
 <p>mdshuvo726@gmail.com</p>  <br> <br> 
 
 
