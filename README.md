@@ -9,7 +9,7 @@
 ____Programming And TREADING____
 
 CONTACT WITH <a href="https://github.com/jihadul200k"><b>JIHADUL ISLAM </a> </br><br>
-<p>mdjihadjihad939@mail.com</p>  <br> <br> 
+<p>Acumenova@protonmail.com</p>  <br> <br> 
 
 
       TERMUX SETUP TOOL
