@@ -21,7 +21,7 @@ CONTACT WITH <a href="https://github.com/jihadul200k"><b>JIHADUL ISLAM </a> </br
  pkg install python 
  pkg install python2 
  pkg install git 
- git clone https://github.com/jihad200k/Set-Up.git
+ git clone https://github.com/TEAM-ACUMENOVA/Set-Up.git
 ```
 #### RUN SCRIPT
 ```python
